@@ -16,6 +16,10 @@ Ideally, these are in TXT format. If you have them in TEI-XML or HTML, then that
 
 Please think small. If you are working with a novel, do not pick the entire novel. Keep the selections brief (a page, even). Do not version anything longer than a chapter (for now).  
 
+## Rationale for the Selected Texts (~100 words)
+
+Why the texts you selected? What other options / editions / translations exist that you did not select? 
+
 ## The Working Definition of a Version in this Case (no more than three sentences) 
 
 As we have learned, there are multiple ways of defining a version. What is your definition? Ideally, the definition is tied to method. It should help you practice versioning.  
