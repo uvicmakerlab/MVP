@@ -2,9 +2,11 @@
 
 At the lab on 10 January 2013, we met to discuss modernist "case studies" on versioning, with an emphasis on why modernism (broadly understood) is a relevant and curious domain / period for versioning research.  
 
-In short: what about modernism demands versioning? What kinds of versioning? And through what sorts of methods? 
+In short: what about modernism demands versioning? What kinds of versioning? And through what methods? 
 
-To unpack answers to these questions in January and February, let's begin with a "research statement" for each of our case studies (currently marked by author): Proust, Conrad, and Moore. A research statement should include the following: 
+To unpack answers to these questions, let's begin with a "research statement" for each of our case studies (currently framed by references to authors): Proust, Conrad, and Moore. 
+
+A research statement should include the following: 
 
 ## Rationale for Selected Author(s) and Selected Text(s) (~250 words) 
 
@@ -12,27 +14,31 @@ What about this author's work begs for versioning? What are some material and/or
 
 ## The Text(s) to Be Versioned 
 
-Ideally, these are in TXT format. If you have them in TEI-XML or HTML, then that's great, too. 
+Ideally, they are in TXT format. If you have them in TEI-XML or HTML, then that's great, too. 
 
-Please think small. If you are working with a novel, do not pick the entire novel. Keep the selections brief (a page, even). Do not version anything longer than a chapter (for now).  
+Please think small. If you are working with a novel, then do not pick the entire novel. Keep the selections brief (a page, even). Do not version anything longer than a chapter (for now).  
 
-## Rationale for the Selected Texts (~100 words)
+Assuming there are no intellectual property or rights issues, we'll push these selections to our GitHub repo.  
 
-Why the texts you selected? What other options / editions / translations exist that you did not select? 
+## Rationale for the Selected Text(s) (~100 words)
 
-## The Working Definition of a Version in this Case (no more than three sentences) 
+Why are you selecting these texts? Or these portions of a text? What other options / editions / translations exist that you did not select? In the last instance, how do you justify your selection(s)? 
 
-As we have learned, there are multiple ways of defining a version. What is your definition? Ideally, the definition is tied to method. It should help you practice versioning.  
+## The Working Definition of a Version in this Instance (no more than three sentences) 
+
+As we have learned, there are multiple ways of defining a version, and of versioning texts and other media. In this instance, what is your definition? Ideally, the definition is tied to method. It should help you practice versioning (not just describe the practice).  
 
 ## One Concrete Example of Why Versioning Will Be Interesting (~100 words) 
 
-Draw an example from the text(s) that demonstrate or exhibit your claims above. Ideally, the example will convince people who may not be familiar with your selected text(s).  
+Draw an example from the text(s) that demonstrate or exhibit your claims above (e.g., why the selected texts(s) warrant versioning). Ideally, the example will convince (or at least appeal to) people who may not be familiar with your selected text(s).  
 
 ## A Proposed Workflow (~100 words) 
 
-Based on the work you've done thus far, what would be the exact (i.e., step-by-step) procedure for versioning the selected text(s)? Will you use TEI? If so, then when? How will you visualize meaningful difference? What tools will you use? Feel free to adopt something we've already done or articulate a new / variant workflow. 
+Based on the work you've done thus far, what would be the exact (i.e., step-by-step) procedure for versioning the selected text(s)? Will you use TEI? If so, then when? How will you visualize meaningful difference? What tools will you use? Feel free to adopt something we've already done or articulate a new / variant workflow.
 
-Again, the point here is to underscore multiple ways of versioning a modernist text, while justifying modernism as an interesting area for versioning research.  
+However, please propose a workflow that is feasible within the next month or so. Avoid blue sky.   
+
+*Reminder:* the point here is to underscore multiple ways of versioning modernist texts (meaning there is an array of possible workflows), while justifying modernism as an interesting area for versioning research.  
 
 ## Anticipated Outcomes (~100 words) 
 
