@@ -1,0 +1,30 @@
+Research Statement: Versioning Tarr
+
+Rationale for Selected Author and Selected Text
+Because of its complex and under-studied textual history, Wyndham Lewis’s Tarr presents an ideal candidate for digital versioning. Initially serialized in a shortened form in The Egoist, Lewis’s novel was then published in two significantly different editions in 1918, substantially revised in 1928, and again revised in 1951. These versions span much of the modernist period, from WWI to the aftermath of WWII. Readers of Tarr have in the past had to choose between very different versions (various reprints of the 1928 edition, or Paul O’Keefe’s now out-of-print Black Sparrow edition of the 1918 Tarr, a composite of American and British editions). A genetic critical approach, by focusing on the differences between these substantially unlike versions, will make way for new understandings of this monument of literary modernism, and promises new insights into literary modernism itself. 
+
+
+Texts to be Versioned
+•  1916-17 Egoist serial
+•	1918 Egoist Press (London)
+•	1918 Knopf (New York)
+•	1928 Chatto and Windus (London)
+•	1951 Methuen (London)
+
+
+The Working Definition of a Version in this Instance (no more than three sentences)
+For the purposes of the Tarr project, a version is different from an edition and a witness. Unlike an edition of the text that accounts for the variants within a single text, e.g. the Gabbler edition of Ulysses, a version for this project makes no claim to be an ur-text or a new iteration of the text. In this instance, a version is the isolation and collation of differences between variant witness texts.
+
+
+One Concrete Example of Why Versioning Will Be Interesting
+While little work has been done on the different versions of Tarr, that small body of work has already turned up significant variants between editions. In the introduction to his unpublished doctoral dissertation edition of Tarr, Stephen Sturgeon notes, for instance, that the name of a minor character name is changed in nearly every edition of the work (Clara Goenthner in the English 1918 becomes Clare Vamber in the American 1918, Clara Vamber in the MS for the 1928, Clara Lederer in the published 1928, and Clara Vamber in the 1951). Given Lewis’s propensity for revision, what will be most interesting are the changes discoverable in automatic versioning that might escape the attention of a human reader. Any such changes will reflect the vastly different contexts in which the versions were released. The initial serialization and first publication took place during the period of WWI, and, given the novel’s focus on German characters and themes of militarism, was frequently read as a comment on the war. The 1928 edition was published at the time of Lewis’s most concerted engagement with Fascist political ideologies—mid-way between his political work The Art of Being Ruled (1926) and his book-length study Hitler (1931). Finally, the 1951 edition was published after Lewis had definitively condemned Fascism in The Hitler Cult (1939) and embraced democracy, internationalism, and multiculturalism in America and Cosmic Man (1948). Versioning promises to uncover subtle shifts that Lewis undertook in these changing contexts. The character Tarr uses the phrase “a high standard Aryan female” to describe Bertha Lunken in the 1918 English edition, at a time before this phrase had become associated with Nazi eugenics. It will be of great interest to see how Lewis alters this and other similar phrases the 1928 version, shortly before the period of his deepest engagement with Nazi ideology, and in the 1951 version, in the wake of his embrace of internationalism and pluralism.
+
+
+A Proposed Workflow
+The first stage will focus on three key episodes in Tarr, in two witness texts. This will require clean copies in the two most widely-read witness texts (Egoist Press 1918 and Chatto and Windus 1928) of the introduction of Bertha (Part I, Chapter 4); the rape scene (Part IV, Chapter 8 [1918] / 9 [1928]); and the duel (Part IV, Chapter 5). Looking initially at just these scenes and these witness texts will allow us to get meaningful preliminary results before proceeding to the acquisition/ scanning and OCR-correction of the remaining witness texts. This initial workflow will proceed by using Juxta Commons ingest the two witnesses and collate them; outputting the results in TEI; reading through the variants identified to discern any patterns; on the basis of these patterns, devising a menu of TEI tags with which to mark up individual variants; marking up the variants; ingesting the resulting TEI file into Mandala browser and processing for visualizations.
+Once this initial stage has been completed, further workflows will be devised to include the full text of Tarr and more witness texts.
+
+
+Anticipated Outcomes
+Scholarship has already shown substantial isolated differences between the texts. A complete set of differences should shed light on Lewis’s changing attitudes to political ideology, to war, to violence, and to the representation of women—and in so doing, help us to see how modernist literature itself evolved in relation to WWI, the rise of Fascism, and WWII. Because a computational rather than a human-reader approach is being adopted here, however, it is impossible to anticipate at this stage what differences will be shown and what their significance might be. In this respect, this is a genuinely experimental approach.
+
