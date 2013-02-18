@@ -1,0 +1,94 @@
+MVP Project Plan
+Jan-June 2013
+
+
+Version number _______, Date _______
+
+
+A.  Basic information
+
+A1. Project Name  TEI Plugin
+A2. MVP Director Name	Tanya Clement
+A3. Research Student Name(s)	Daniel Carter
+A4. Institution(s)	University of Texas at Austin
+A4. Project start and end dates
+	01/2012-16/2013
+A5. Project description (500-750 words)
+
+This project will produce a way to visualize versioned texts that are encoded in TEI P5. There are currently a few ways to do this, the most relevant of which are the Versioning Machine and Juxta Commons. Juxta Commons is limited in the number of versions that can be seen at one time, and the Versioning Machine is based on dated technology and presents implementation obstacles. 
+
+To address these issues, the project is created as a jQuery plugin. jQuery is commonly used for front-end web development and has a large and active community of developers. Creating the project as a plugin also means that it could be easily integrated into other projects. By creating something small and flexible that can be used across a range of sites and projects, I hope to encourage wider adoption.
+
+Additionally, the project enters into an existing conversation about how TEI-encoded documents should handle annotations and other forms of analysis. By moving these elements into separate files, I hope to explore how a TEI-encoded text might serve not as (just) one scholar’s interpretation but instead as something that can be interpreted and used by many scholars in many different ways. 
+
+In order to demonstrate the plugin’s functionality, I’ve encoded a short section of Ulysses, as well as an unpublished poem by Elsa von Freytag-Loringhoven. Over the semester, I’ll encode more versions of the latter and work toward either producing an edition of the poem or incorporating that work into the documentation or an article based on the plugin.
+
+At this point I’m soliciting feedback and preparing to make revisions to the basic version of the plugin. The next steps will be documentation and release of the plugin. My goals with the documentation are to provide instructions for use as well as a brief background on the theoretical issues involved. Another issue that still needs to be addressed is how to release the plugin. While I think that much of the value of the work lies in releasing the plugin as something that can be incorporated into a variety of projects, it has been suggested that a web interface through which users could upload their encoded texts for visualization would be useful as well. Based on feedback and discussion with researchers in the community, we’ll need to work out exactly what releasing the plugin looks like and how we want to use it to promote the MVP.
+
+Finally, based on the above work, I intend to write an article that could be submitted to the TEI Journal. My current plan is to use the plugin as a way to talk about issues surrounding annotation of encoded texts.
+
+A6. Project Goals and Objectives
+
+1) Produce a jQuery plugin for displaying versioned texts encoded in TEI P5. The plugin should be useful to researchers who want to explore differences across texts or to present versioned texts as part of a larger argument. The plugin should also be of interest to developers of other projects who might want to incorporate it into their work. 
+
+2) Explore alternative ways of working with TEI-encoded texts. The project implements a system for maintaining a separation between analysis and text that differs from many current systems.
+
+3) Generate interest in and recognition of the MVP’s project. 
+
+4) Form the basis for an article that looks at how analysis and annotation are integrated into a TEI-based system.
+
+
+B. Project work plan
+
+B1. Project deliverable(s) and due dates (add or remove rows as required)
+
+Number	Description	Due date
+1	TEI plugin case study/writeup for blog	02/28/2013
+2	TEI plugin documentation and release plan	04/01/2013
+3	Draft of article for TEI journal based on plugin	04/30/2013
+
+
+B2. Project tasks and milestones (add or remove rows as required)
+
+T1.	Process feedback on initial version and make revisions.
+T2.	Complete a case study to demonstrate the plugin.
+T3.	Write a summary of progress for the MVP blog.
+M1.	Case study and writeup posted to blog.
+T4.	Document plugin.
+T5.	Decide how to release plugin, coordinate with appropriate parties.
+M2.	Release plugin.
+T6. 	Draft article.
+M3.	Get feedback on article, revise, repeat. 
+
+B3 Risk Assessment
+
+Risk	Severity (L,M,H)	Likelihood (L,M,H)	Contingency
+Delay in getting feedback, consensus	L	H	There should still be time to push back on deadlines to accommodate for this.
+Technical Issues	L	M	I don’t expect major technical issues, but they would just mean more development time.
+
+A Gantt chart is optional for section B
+
+C Resource implications 
+
+Are there any resources beyond your own time – other people’s time, money, proprietary information (software, texts, etc) - required for the delivery of the project?  
+
+Completing the TEI plugin will require feedback from the group, as well as (hopefully) other developers and researchers in the field. 
+
+D Desired Impact
+
+What would be the ideal outcome of the project for you and for the MVP?  Could you envision a wider impact (STEEP) or appeal for a wider audience?
+
+The project will, hopefully, provide exposure for the MVP once the plugin is released. Additionally, it may be a useful tool for members of the group to use in research and presentation of their work. Personally, I’m hoping to get some credit for the released product and possibly an article based on the work. 
+
+Optimally, scholars outside the MVP whose research involves versioned texts will use the plugin. It could also potentially be integrated into other systems, providing a wider impact. 
+
+E Dissemination
+
+What audiences will your project reach and how will you reach them?
+
+Audience	Communication
+MVP	email
+Scholars working with versioned texts	To be decided closer to release. (Humanist, Twitter, VM, etc.)
+Developers working on similar projects	email
+
+
