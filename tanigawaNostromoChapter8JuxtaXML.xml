@@ -33,11 +33,11 @@
    <rdg wit="#wit-2241" n="2">,</rdg>
 </app> Nostromo had scrambled up, all dripping, into the main quadrangle of the old fort 
 <app type="punctuation">
-   <rdg wit="#wit-2242">;</rdg>
-   <rdg wit="#wit-2241">,</rdg>
+   <rdg wit="#wit-2242" n="3">;</rdg>
+   <rdg wit="#wit-2241" n="2">,</rdg>
 </app> and there, 
-<app>
-   <rdg wit="#wit-2242" type="spelling">amongst</rdg>
+<app type="spelling">
+   <rdg wit="#wit-2242" >amongst</rdg>
    <rdg wit="#wit-2241">among</rdg>
 </app> ruined bits of walls and rotting remnants of roofs and sheds, he had slept the day through. He had slept in the shadow of the mountains, in the white blaze of noon, in the stillness and solitude of that overgrown piece of land between the nearly closed oval of the harbor and the spacious semicircle of the gulf 
 <app type="omission">
@@ -45,12 +45,12 @@
    <rdg wit="#wit-2241"></rdg>
 </app> . He lay as if dead. A rey-zamuro, appearing like a tiny black speck in the blue, stooped, circling prudently with a stealthiness of flight startling in a bird of that great size. The shadow of his 
 <app type="punctuation">
-   <rdg wit="#wit-2242">pearly-white</rdg>
-   <rdg wit="#wit-2241">pearly white</rdg>
+   <rdg wit="#wit-2242" n="6">pearly-white</rdg>
+   <rdg wit="#wit-2241" n="0">pearly white</rdg>
 </app> body, of his black-tipped wings, fell on the grass no more silently than he alighted himself on a hillock of rubbish within three yards of that man 
 <app type="punctuation">
-   <rdg wit="#wit-2242">,</rdg>
-   <rdg wit="#wit-2241"></rdg>
+   <rdg wit="#wit-2242" n="2">,</rdg>
+   <rdg wit="#wit-2241" n="0"></rdg>
 </app> lying as still as a corpse. He stretched his bare neck, craned his bald head, loathsome in the brilliance of varied 
 <app type="spelling">
    <rdg wit="#wit-2242">colouring</rdg>
@@ -132,8 +132,8 @@ Nostromo, in close hiding in a back room of a pulperia for the three days before
    <rdg wit="#wit-2241">over-weening</rdg>
 </app> vanity, which Decoud alone, thinking that he would be of use politically, had taken the trouble to find out. Each man must have some temperamental sense by which to discover himself. With Nostromo it was vanity of an artless sort. 
 <app type="addition">
-   <rdg wit="#wit-2242"> </rdg>
-   <rdg wit="#wit-2241">Without it he would have been nothing.</rdg>
+   <rdg wit="#wit-2242" type="Nostromo" n="0"> </rdg>
+   <rdg wit="#wit-2241" type="Nostromo" n="1">Without it he would have been nothing.</rdg>
 </app> It called out his recklessness, his industry, his ingenuity, and that disdain of the natives which helped him so much upon the line of his work and resembled an inborn capacity for command. It made him appear incorruptible and fierce. It made him happy also. He was 
 <app type="addition">
    <rdg wit="#wit-2242"> </rdg>
@@ -285,7 +285,7 @@ The darkness of the sky had descended to the line of the horizon, enveloping the
 </app> , turning his back on these things invisible and existing, sat down and took his face between his fists. He felt the pinch of poverty for the first time in his life. 
 <app type="addition">
    <rdg wit="#wit-2242" type="Nostromo" n="0"> </rdg>
-   <rdg wit="#wit-2241" type="Nostromo" n="1">To find himself without money after a run of bad luck at monte in the low, smoky room of Domingo&apos;s posada, where the fraternity of cargadores gambled, sang, and danced of an evening; to remain with empty pockets after a burst of public generosity to some peyne d&apos;oro girl or other (for whom he did not care), had none of the humiliation of destitution. He remained rich in glory and reputation.	But since it was no longer possible for him to parade the streets of the town and be hailed with respect in the usual haunts of his leisure, this sailor felt himself destitute indeed.</rdg>
+   <rdg wit="#wit-2241" type="Nostromo" n="1">To find himself without money after a run of bad luck at monte in the low, smoky room of Domingo&apos;s posada, where the fraternity of cargadores gambled, sang, and danced of an evening; to remain with empty pockets after a burst of public generosity to some peyne d&apos;oro girl or other (for whom he did not care), had none of the humiliation of destitution. He remained rich in glory and reputation.    But since it was no longer possible for him to parade the streets of the town and be hailed with respect in the usual haunts of his leisure, this sailor felt himself destitute indeed.</rdg>
 </app> <lb/>His mouth was dry. It was dry with heavy sleep and extremely anxious thinking 
 <app type="punctuation">
    <rdg wit="#wit-2242" n="2">,</rdg>
