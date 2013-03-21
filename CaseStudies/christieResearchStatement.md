@@ -1,7 +1,7 @@
 #Rationale
 
 * Forthcoming
-* [click me] (http://web.uvic.ca/~achris/PROUST_VM/Penmarch.html )
+* [project url] (http://web.uvic.ca/~achris/PROUST_VM/Penmarch.html )
 
 
 #The Texts to be Versioned
