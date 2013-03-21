@@ -31,3 +31,27 @@ Enter text into GitHub as to emulate text and its alterations and create tree of
 ## Anticipated Outcomes
  
 I aim to sketch a nuanced and dynamic portrait of Moore and bring to the forefront the history of the younger Moore. Criticism often associates the poet with rigid form and severity, and yet her strictness has created a body of fluctuating texts that engage the history of modernism as it spans the early and mid twentieth century. Beyond acknowledging the fluidity of a text, this versioning project considers how Moore’s poetic trajectory and modernist principles and aesthetics mutate over time. The project may shed light on how writers, editors, publishers and readers constructed and received modernism from the 1910s to the 1960s.
+
+## Preliminary Findings
+
+Structure
+39 to 38 to 4 lines
+5 to 1 stanzas
+linebreaks differ (enjambment mid-sentence and mid-word)
+
+Material
+
+From 1919 to 1924:
+"autocrats" to "poets" (line 29 / line 28)
+"twinkling" to "twitching" (line 19)
+
+From 1919/24 to 67:
+
+- Loss of lists of things, references to concrete materials 
+-- Zoological references
+-- Note on poetic praxis: definition of poetry as collage of mixed media (documents, textbooks)
+-- People/professionals: baseball fan and statistician
+-- “case after case” -- specificity
+
+Result
+Final version: terse, more abstract, less identifiable as a Moore poem (evading the characteristics of Moore's poetry such as collage, animal references, interests in low-and-high brow cultures)
