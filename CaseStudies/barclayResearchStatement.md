@@ -34,12 +34,12 @@ I aim to sketch a nuanced and dynamic portrait of Moore and bring to the forefro
 
 ## Preliminary Findings
 
-Structure
+Structure:
 39 to 38 to 4 lines
 5 to 1 stanzas
 linebreaks differ (enjambment mid-sentence and mid-word)
 
-Material
+Material:
 
 From 1919 to 1924:
 "autocrats" to "poets" (line 29 / line 28)
@@ -53,5 +53,5 @@ From 1919/24 to 67:
 -- People/professionals: baseball fan and statistician
 -- “case after case” -- specificity
 
-Result
+Result:
 Final version: terse, more abstract, less identifiable as a Moore poem (evading the characteristics of Moore's poetry such as collage, animal references, interests in low-and-high brow cultures)
