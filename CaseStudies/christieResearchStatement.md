@@ -23,3 +23,4 @@ The legend and annotations will provide transparency in my sorting methods and a
 
 * How to deal with prose
 * How to visualize large-scale changes to text
+* Strategies for using annotation and highlighting to visualize interpretations of variants
