@@ -31,3 +31,10 @@ For the second workflow, the two witnesses are first marked up in TEI using a ta
 ## Anticipated Outcomes: (100)
 
 The project has already shown that substantial differences exist between the first two editions and that these differences, especially in relation to the different epithets associated with the character Nostromo, have significant meaning, affecting the way the texts engage with issues of economy, race, and even gender. By adding the Dent edition as a third witness text, the project will hopefully be able to consider the ways in which the changes brought on by WWI influence this final author-edited edition of the text. 
+
+## Preliminary Findings: 
+
+* Epithets used to refer to Nostromo do change throughout the two editions
+* These changes, in part a result of the addition of the "romance plot" in part three of the Harper's edition, point to a Nostromo who is increasingly possessed and in a slave-like relationship with wealth, vanity, and women (notably Giselle who assumes possession of Nostromo as Mitchell's iterative possession of "his man" disolves)
+* Female and indigenous characters are seen in groups of people (e.g., villagers, Indios, Indians) more frequently than they are as individuals
+* Using the latter workflow might require different iterations of the diff markups (e.g., I might want to have one iteration of the diff markup from the Juxta output that locates epithets as types of difference and attributes a given value to these differences and another markup of the same output that does not mark up epithet changes but that marks up general omissions and aditions related to Nostromo and places a value on these differences instead. This might allow for greater clarity on the visualization level especially if numerical values mean different things for different types of difference).  
